@@ -1,0 +1,14 @@
+{
+  "yt2mp3": {
+    "version": "1.2.0",
+    "url": "https://github.com/你的帳號/yt2mp3/releases/latest",
+    "msg": "修復了 YouTube 限速問題，現在下載更快了！",
+    "forceUpdate": false
+  },
+  "bitinex-bot": {
+    "version": "2.0.5",
+    "url": "https://github.com/你的帳號/bitinex-bot/releases/latest",
+    "msg": "新增了自動複利功能，優化借貸效率。",
+    "forceUpdate": true
+  }
+}
