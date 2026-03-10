@@ -1,9 +1,7 @@
 {
-  "yt2mp3": {
-    "version": "1.2.0",
-    "url": "https://github.com/你的帳號/yt2mp3/releases/latest",
-    "msg": "修復了 YouTube 限速問題，現在下載更快了！",
-    "forceUpdate": false
+  "YT-Media-Extractor": {
+    "latest_version": "2.6.0",
+    "download_url": "你的公開GitHub下載頁面或Google雲端連結"
   },
   "bitinex-bot": {
     "version": "2.0.5",
