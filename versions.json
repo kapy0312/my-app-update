@@ -1,12 +1,10 @@
 {
-  "YT-Media-Extractor": {
-    "latest_version": "2.5.4",
-    "download_url": "你的公開GitHub下載頁面或Google雲端連結"
+"YT-Media-Extractor": {
+    "latest_version": "2.6.0",
+    "download_url": "https://github.com/kapy0312/my-app-update/releases/latest/YT-Media-Extractor"
   },
   "bitinex-bot": {
-    "version": "2.0.5",
-    "url": "https://github.com/你的帳號/bitinex-bot/releases/latest",
-    "msg": "新增了自動複利功能，優化借貸效率。",
-    "forceUpdate": true
+    "latest_version": "2.0.5",
+    "download_url": "https://github.com/kapy0312/my-app-update/releases/latest/bitinex"
   }
 }
