@@ -3,7 +3,7 @@
     "latest_version": "2.6.5",
     "download_url": "https://github.com/kapy0312/my-app-update/releases/download/yt-v.latest/YT-Media-Extractor_v2.6.5.7z"
   },
-  "Bitfinex-On-Prem-Bot": {
+  "bfx-bot": {
     "latest_version": "5.3.4",
     "download_url": "https://github.com/kapy0312/my-app-update/releases/download/bitinex-bot/TEST.7z"
   }
