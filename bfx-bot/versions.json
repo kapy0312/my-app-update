@@ -1,9 +1,9 @@
 {
   "bfx-bot": {
-    "latest_version": "3.7.0",
+    "latest_version": "3.7.1",
     "download_url": {
-      "win": "https://github.com/kapy0312/my-app-update/releases/download/bitinex-bot/BFX.Lending.Bot.3.7.0.Windows.7z",
-      "mac": "https://github.com/kapy0312/my-app-update/releases/download/bitinex-bot/BFX.Lending.Bot.3.7.0.macOS.zip"
+      "win": "https://github.com/kapy0312/my-app-update/releases/download/bitinex-bot/BFX.Lending.Bot.3.7.1.Windows.7z",
+      "mac": "https://github.com/kapy0312/my-app-update/releases/download/bitinex-bot/BFX.Lending.Bot.3.7.1.macOS.zip"
     }
   }
 }
