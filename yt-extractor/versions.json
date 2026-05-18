@@ -1,7 +1,7 @@
 {
 "YT-Media-Extractor": {
-    "latest_version": "2.7.5",
-    "download_url_win": "https://github.com/kapy0312/my-app-update/releases/download/yt-v.latest/YT-Media-Extractor.Setup.2.7.5.exe",
-    "download_url_mac_zip": "https://github.com/kapy0312/my-app-update/releases/download/yt-v.latest/YT-Media-Extractor.2.7.5.macOS.arm64.zip"
+    "latest_version": "2.7.6",
+    "download_url_win": "https://github.com/kapy0312/my-app-update/releases/download/yt-v.latest/YT-Media-Extractor.Setup.2.7.6.exe",
+    "download_url_mac_zip": "https://github.com/kapy0312/my-app-update/releases/download/yt-v.latest/YT-Media-Extractor.2.7.6.macOS.arm64.zip"
 }
 }
